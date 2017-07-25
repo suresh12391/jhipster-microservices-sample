@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "org.jhipster.blog"
+      "packageName": "org.jhipster.blog",
+      "microservicePath": "../store"
     },
     "jhipsterVersion": "4.6.2",
     "baseName": "blog",
